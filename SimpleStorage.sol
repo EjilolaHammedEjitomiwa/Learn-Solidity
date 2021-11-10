@@ -4,8 +4,8 @@
 pragma solidity ^0.6.0;
 
 contract SimpleStorage {
-    
-    // can only accept positive integer
+
+
     uint256 favouriteNumber;
     
     struct People {
